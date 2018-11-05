@@ -24,6 +24,7 @@ brew "gpg"
 brew "groovysdk"
 brew "mas"
 brew "git"
+brew "golang"
 
 # Casks
 
@@ -41,6 +42,7 @@ cask "keybase"
 cask "postman"
 cask "the-unarchiver"
 cask "evernote"
+cask "pycharm-ce"
 
 # Mac App Store
 mas "Wunderlist", id: 410628904
