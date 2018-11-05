@@ -43,6 +43,7 @@ cask "postman"
 cask "the-unarchiver"
 cask "evernote"
 cask "pycharm-ce"
+cask "intellij-idea-ce"
 
 # Mac App Store
 mas "Wunderlist", id: 410628904
