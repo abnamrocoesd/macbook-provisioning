@@ -21,10 +21,11 @@ brew "hh"
 brew "nmap"
 brew "nodejs"
 brew "gpg"
-brew "groovysdk"
+#brew "groovysdk"
 brew "mas"
 brew "git"
 brew "golang"
+brew "yarn"
 
 # Casks
 
@@ -44,6 +45,7 @@ cask "the-unarchiver"
 cask "evernote"
 cask "pycharm-ce"
 cask "intellij-idea-ce"
+cask "gimp"
 
 # Mac App Store
 mas "Wunderlist", id: 410628904
