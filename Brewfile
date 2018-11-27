@@ -26,6 +26,8 @@ brew "mas"
 brew "git"
 brew "golang"
 brew "yarn"
+brew "telnet"
+brew "vault"
 
 # Casks
 
