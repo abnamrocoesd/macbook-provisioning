@@ -28,6 +28,9 @@ brew "golang"
 brew "yarn"
 brew "telnet"
 brew "vault"
+brew "rust"
+brew "crystal"
+brew "svn"
 
 # Casks
 
