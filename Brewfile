@@ -32,6 +32,7 @@ brew "rust"
 brew "crystal"
 brew "svn"
 brew "serverless"
+brew "maven"
 
 # Casks
 
