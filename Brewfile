@@ -33,6 +33,7 @@ brew "crystal"
 brew "svn"
 brew "serverless"
 brew "maven"
+brew "skaffold"
 
 # Casks
 
