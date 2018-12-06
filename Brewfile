@@ -27,12 +27,11 @@ brew "nmap"
 brew "nodejs"
 brew "rust"
 brew "serverless"
-brew "svn"
 brew "telnet"
 brew "terraform"
-brew "vault"
 brew "wget"
-brew "yarn"
+brew "maven"
+brew "skaffold"
 
 # Casks
 
