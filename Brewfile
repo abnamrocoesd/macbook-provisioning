@@ -34,7 +34,6 @@ brew "svn"
 brew "serverless"
 brew "maven"
 brew "skaffold"
-brew "hub"
 
 # Casks
 
@@ -56,6 +55,7 @@ cask "pycharm-ce"
 cask "intellij-idea-ce"
 cask "gimp"
 cask "java"
+cask "visual-studio-code"
 
 # Mac App Store
 mas "Wunderlist", id: 410628904
