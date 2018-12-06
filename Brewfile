@@ -35,6 +35,7 @@ brew "serverless"
 brew "maven"
 brew "skaffold"
 brew "hub"
+brew "python"
 
 # Casks
 
