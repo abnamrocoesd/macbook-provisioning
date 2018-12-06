@@ -34,6 +34,7 @@ brew "svn"
 brew "serverless"
 brew "maven"
 brew "skaffold"
+brew "hub"
 
 # Casks
 
