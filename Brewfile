@@ -58,6 +58,7 @@ cask "intellij-idea-ce"
 cask "gimp"
 cask "java"
 cask "visual-studio-code"
+cask "macpass"
 
 # Mac App Store
 mas "Wunderlist", id: 410628904
