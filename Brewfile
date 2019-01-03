@@ -59,6 +59,7 @@ cask "gimp"
 cask "java"
 cask "visual-studio-code"
 cask "macpass"
+cask "minikube"
 
 # Mac App Store
 mas "Wunderlist", id: 410628904
