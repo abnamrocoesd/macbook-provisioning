@@ -10,6 +10,8 @@ Install Homebrew
 $ ./homebrew.sh
 ```
 
+## Install packages
+
 Customize the `Brewfile` where needed.
 
 ```
