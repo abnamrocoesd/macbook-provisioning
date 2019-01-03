@@ -36,6 +36,7 @@ brew "maven"
 brew "skaffold"
 brew "hub"
 brew "python"
+brew "tree"
 
 # Casks
 
