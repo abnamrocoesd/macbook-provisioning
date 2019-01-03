@@ -60,8 +60,3 @@ cask "java"
 cask "visual-studio-code"
 cask "macpass"
 cask "minikube"
-
-# Mac App Store
-mas "Wunderlist", id: 410628904
-mas "Textual 7", id: 1262957439
-mas "WhatsApp Desktop", id: 1147396723

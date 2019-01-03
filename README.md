@@ -4,9 +4,14 @@ Automate your macOS Configuration by using Brewfile
 
 ## Getting started
 
-Customize the `Brewfile` where needed.
+Install Homebrew
 
 ```
 $ ./homebrew.sh
+```
+
+Customize the `Brewfile` where needed.
+
+```
 $ brew bundle
 ```
