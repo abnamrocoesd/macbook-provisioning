@@ -2,8 +2,7 @@ docker@0.8.0
 file-icons@2.1.26
 language-docker@1.1.8
 language-terraform@0.8.1
-language-yaml@0.32.0
-linter@2.2.0
 linter-docker@0.3.2
 linter-ui-default@1.7.1
-
+linter@2.2.0
+sort-lines@0.18.0

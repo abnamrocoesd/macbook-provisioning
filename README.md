@@ -17,3 +17,9 @@ Customize the `Brewfile` where needed.
 ```
 $ brew bundle
 ```
+
+## Install Atom packages
+
+```
+$ apm install --packages-file atom-package-list.txt
+```
