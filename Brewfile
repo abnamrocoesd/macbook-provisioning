@@ -4,6 +4,7 @@ tap "homebrew/bundle"
 tap "homebrew/services"
 tap "caskroom/cask"
 tap "mas-cli/tap"
+tap "weaveworks/tap"
 
 # Brews
 
@@ -39,6 +40,7 @@ brew "maven"
 brew "tree"
 brew "mc"
 brew "tkdiff"
+brew "eksctl"
 
 # Casks
 
