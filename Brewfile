@@ -43,6 +43,7 @@ brew "tkdiff"
 brew "eksctl"
 brew "go-jira"
 brew "operator-sdk"
+brew "watch"
 
 # Casks
 
