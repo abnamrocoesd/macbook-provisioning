@@ -3,8 +3,8 @@ tap "homebrew/core"
 tap "homebrew/bundle"
 tap "homebrew/services"
 tap "caskroom/cask"
-tap "mas-cli/tap"
 tap "weaveworks/tap"
+tap "garethr/kubeval"
 
 # Brews
 
@@ -22,7 +22,6 @@ brew "hh"
 brew "nmap"
 brew "nodejs"
 brew "gpg"
-brew "mas"
 brew "git"
 brew "golang"
 brew "yarn"
@@ -44,6 +43,7 @@ brew "eksctl"
 brew "go-jira"
 brew "operator-sdk"
 brew "watch"
+brew "kubeval"
 
 # Casks
 
