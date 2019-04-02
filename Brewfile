@@ -44,6 +44,7 @@ brew "go-jira"
 brew "operator-sdk"
 brew "watch"
 brew "kubeval"
+brew "gron"
 
 # Casks
 
