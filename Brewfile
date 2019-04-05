@@ -45,6 +45,7 @@ brew "operator-sdk"
 brew "watch"
 brew "kubeval"
 brew "gron"
+brew "azure-cli"
 
 # Casks
 
