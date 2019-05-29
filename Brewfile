@@ -48,6 +48,8 @@ brew "gron"
 brew "azure-cli"
 brew "packer"
 brew "opa"
+brew "jsonpp"
+brew "yq"
 
 # Casks
 
