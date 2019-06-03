@@ -23,6 +23,25 @@ $ brew bundle
 ```
 $ apm install --packages-file atom-package-list.txt
 ```
+
+## Install pip packages
+
+```
+$ pip install -r requirements.txt
+```
+
+## Install NPM packages
+
+```
+$ npm install -g
+```
+
+## Install Ruby Gems
+
+```
+$ bundle install
+```
+
 ## Bash Aliases
 
 Include the following line in `~/.bash_profile` .

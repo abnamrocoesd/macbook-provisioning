@@ -49,6 +49,8 @@ brew "azure-cli"
 brew "packer"
 brew "opa"
 brew "jsonpp"
+brew "ruby"
+brew "brew-gem"
 
 # Casks
 
@@ -76,3 +78,4 @@ cask "minikube"
 cask "sourcetree"
 cask "dotnet-sdk"
 cask "powershell"
+
