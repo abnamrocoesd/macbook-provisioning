@@ -51,6 +51,7 @@ brew "opa"
 brew "jsonpp"
 brew "ruby"
 brew "brew-gem"
+brew "gitversion"
 
 # Casks
 
