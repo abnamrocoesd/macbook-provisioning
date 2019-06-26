@@ -52,6 +52,7 @@ brew "jsonpp"
 brew "ruby"
 brew "brew-gem"
 brew "gitversion"
+brew "awslogs"
 
 # Casks
 
@@ -79,4 +80,3 @@ cask "minikube"
 cask "sourcetree"
 cask "dotnet-sdk"
 cask "powershell"
-
