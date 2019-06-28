@@ -53,6 +53,7 @@ brew "ruby"
 brew "brew-gem"
 brew "gitversion"
 brew "awslogs"
+brew "yamllint"
 
 # Casks
 
