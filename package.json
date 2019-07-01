@@ -29,6 +29,7 @@
     "release-it": "7.4.8",
     "request": "2.88.0",
     "selenium-download": "2.0.12",
-    "update-json-file": "1.1.1"
+    "update-json-file": "1.1.1",
+    "git-run": "0.5.5"
   }
 }
