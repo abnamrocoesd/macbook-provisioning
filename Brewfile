@@ -56,6 +56,7 @@ brew "awslogs"
 brew "yamllint"
 brew "rbenv"
 brew "ruby-build"
+brew "hugo"
 
 # Casks
 
