@@ -54,6 +54,8 @@ brew "brew-gem"
 brew "gitversion"
 brew "awslogs"
 brew "yamllint"
+brew "rbenv"
+brew "ruby-build"
 
 # Casks
 
