@@ -5,6 +5,7 @@ tap "homebrew/services"
 tap "caskroom/cask"
 tap "weaveworks/tap"
 tap "garethr/kubeval"
+tap "azure/functions"
 
 # Brews
 
@@ -57,6 +58,7 @@ brew "yamllint"
 brew "rbenv"
 brew "ruby-build"
 brew "hugo"
+brew "azure-functions-core-tools"
 
 # Casks
 
