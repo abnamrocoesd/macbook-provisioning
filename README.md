@@ -6,52 +6,52 @@ Automate your macOS Configuration by using Brewfile
 
 Install Homebrew
 
-```
-$ ./homebrew.sh
+```bash
+./homebrew.sh
 ```
 
 ## Install packages
 
 Customize the `Brewfile` where needed.
 
-```
-$ brew bundle
+```bash
+brew bundle
 ```
 
 ## Install Atom packages
 
-```
-$ apm install --packages-file atom-package-list.txt
+```bash
+apm install --packages-file atom-package-list.txt
 ```
 
 ## Install pip packages
 
-```
-$ pip install -r requirements.txt
+```bash
+pip install -r requirements.txt
 ```
 
 ## Install NPM packages
 
-```
-$ npm install -g
+```bash
+npm install -g
 ```
 
 ## Install Ruby Gems
 
-```
-$ bundle install
+```bash
+bundle install
 ```
 
 ## Bash Aliases
 
 Include the following line in `~/.bash_profile` .
 
-```
+```bash
 if [ -f "$HOME/aliases.bash.inc" ]; then . "$HOME/aliases.bash.inc"; fi
 ```
 
 Copy `aliases.bash.inc` to your home directory using the following command.
 
-```
-$ cp aliases.bash.inc ~/
+```bash
+cp aliases.bash.inc ~/
 ```
