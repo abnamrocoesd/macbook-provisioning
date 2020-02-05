@@ -1,2 +1,2 @@
-molecule==2.20.1
-yq==2.7.2
+molecule==2.22
+tensorflow==2.1.0
