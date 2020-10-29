@@ -6,7 +6,7 @@ GEM
       excon (>= 0.47.0)
       multi_json
     excon (0.71.0)
-    kramdown (1.17.0)
+    kramdown (>= 2.3.0)
     mdl (0.4.0)
       kramdown (~> 1.12, >= 1.12.0)
       mixlib-cli (~> 1.7, >= 1.7.0)
